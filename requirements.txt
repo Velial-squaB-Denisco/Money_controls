@@ -1,0 +1,7 @@
+PySide6
+PySide6-Addons
+markdown
+SQLAlchemy
+python-dateutil
+matplotlib
+requests

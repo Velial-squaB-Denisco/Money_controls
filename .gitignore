@@ -1,0 +1,7 @@
+*.sqlite3
+data/finance.sqlite3
+finance.sqlite3
+.DS_Store
+*.pyc
+*__pycache__
+*.venv
